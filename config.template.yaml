@@ -1,0 +1,10 @@
+base_url: YOUR_CONFLUENCE_SPACE_URL_HERE
+faiss_data_dir: ./data
+parsing_model:
+  # model: gpt-3.5-turbo-16k
+  model: gpt-4
+  temperature: 0
+  max_token: 8192
+chat_model:
+  model: gpt-4
+  temperature: 0.7

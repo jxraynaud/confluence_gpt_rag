@@ -1,0 +1,11 @@
+langchain==0.0.228
+aiohttp
+beautifulsoup4
+pyyaml
+selenium
+openai
+python-dotenv
+faiss-cpu
+streamlit
+pytest
+tiktoken
